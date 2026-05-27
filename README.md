@@ -4,7 +4,7 @@
 
 ## Деплой
 
-grand-tapioca-9a8a70.netlify.app/
+[grand-tapioca-9a8a70.netlify.app/](https://grand-tapioca-9a8a70.netlify.app/)
 
 ## Что умеет приложение
 
